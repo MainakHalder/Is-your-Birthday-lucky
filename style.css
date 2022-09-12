@@ -33,3 +33,14 @@ input{
   padding: 0.5rem;
   border-radius: 0.3rem;
 }
+
+#footer{
+  position: fixed;
+  bottom: 0;
+  height: auto;
+  text-align: center;  
+  width: 100vw;
+  background-color: var(--primary-blue);
+  color: var(--primary-dark);
+  font-weight: bold;
+}
