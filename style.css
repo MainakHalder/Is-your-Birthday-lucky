@@ -18,6 +18,7 @@ h1{
   }
 input, label{
   display: block;
+  padding: 5px;
 }
 input{
   margin-bottom: 0.5rem;
@@ -25,8 +26,7 @@ input{
 }
 #check-number{
   display: block;
-  margin-top: 1rem;
-  margin: auto;
+  margin: 1rem auto;
   background: transparent;
   color: var(--primary-blue);
   border-color: var(--primary-blue);

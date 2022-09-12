@@ -7,7 +7,7 @@ function compareValues(sum,luckyNumber){
     outputBox.innerText = "Your birthdate is lucky 🥳✌️" ;
   }
   else{
-    outputBox.innerText ="Make your own day lucky 😔" ;
+    outputBox.innerText ="Make your own day lucky 😉" ;
   }
 }
 function checkBirthDateIsLucky(){
