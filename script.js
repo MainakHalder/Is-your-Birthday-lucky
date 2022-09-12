@@ -4,10 +4,10 @@ const checkNumberButton = document.querySelector("#check-number");
 const outputBox = document.querySelector("#output-box");
 function compareValues(sum,luckyNumber){
   if(sum%luckyNumber=== 0){
-    outputBox.innerText = "Your birthdate is lucky" ;
+    outputBox.innerText = "Your birthdate is lucky 🥳✌️" ;
   }
   else{
-    outputBox.innerText ="Make your own day lucky" ;
+    outputBox.innerText ="Make your own day lucky 😔" ;
   }
 }
 function checkBirthDateIsLucky(){
